@@ -1,0 +1,11 @@
+body{ background-color: darkgrey;
+
+}
+.logo{
+    display: flex;
+    align-items: normal;
+    justify-content: space-between;
+}
+.op{
+    justify-items: auto;
+}
